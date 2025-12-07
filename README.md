@@ -161,7 +161,7 @@ I'm a motivated **Cybersecurity Analyst** and **Data Analyst** with hands-on exp
 ### 🎓 Education
 
 **Bachelor of Technology (B.Tech) - Computer Science & IT**  
-*Graphic Era Hill University, India* | 2023 - Present
+*Graphic Era Hill University, India* | 2024 - Present
 
 **Relevant Coursework**: Computer Networks, Operating Systems, Cybersecurity Fundamentals, Software Engineering, Database Security, Cryptography, Data Structures & Algorithms
 
