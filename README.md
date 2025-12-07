@@ -2,6 +2,7 @@
 
 <div align="center">
   
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-hemant617.github.io-F85D7F?style=for-the-badge)](https://hemant617.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hemantkaushal)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hemuh877@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hemant617)
@@ -11,6 +12,8 @@
 ## 🛡️ Cybersecurity Analyst | 📊 Data Analyst | 🎓 B.Tech CSE Student
 
 > *"Turning threats into insights, vulnerabilities into solutions"*
+
+### 🌟 [View My Portfolio Website →](https://hemant617.github.io/)
 
 ---
 
@@ -23,6 +26,8 @@ I'm a motivated **Cybersecurity Analyst** and **Data Analyst** with hands-on exp
 - 🐍 **Automation**: Python scripting for security automation and threat detection
 - 🌍 **Location**: Dehradun, Uttarakhand, India
 - 💼 **Open to**: Remote SOC Analyst, Incident Response, Junior Security Analyst, Data Analyst roles
+
+📋 **[My Career Action Plan](./CAREER_ACTION_PLAN.md)** - Roadmap to landing my dream cybersecurity role
 
 ---
 
@@ -196,6 +201,7 @@ I'm actively seeking **remote opportunities** in:
 - 📊 Data Analyst (Security/Forensics focus)
 - 🔬 Threat Intelligence Analyst
 
+**🌐 Portfolio**: [hemant617.github.io](https://hemant617.github.io/)  
 **📧 Email**: hemuh877@gmail.com  
 **📱 Phone**: +91 96342 22262  
 **🔗 LinkedIn**: [linkedin.com/in/hemantkaushal](https://linkedin.com/in/hemantkaushal)  
