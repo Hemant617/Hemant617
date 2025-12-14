@@ -64,6 +64,22 @@ I'm a motivated **Cybersecurity Analyst** and **Data Analyst** with hands-on exp
 
 ### 🎯 Featured Security Projects
 
+#### 🛡️ [AI Zero-Trust Security Orchestrator](https://github.com/Hemant617/ai-zerotrust-security-orchestrator)
+**Enterprise-grade AI-powered Zero-Trust Security Platform**
+- 🤖 Automated threat detection with behavioral analysis
+- 🔐 Quantum-resistant cryptography implementation
+- 🚨 Real-time incident response automation
+- 📊 SOC automation and orchestration
+- **Tech Stack**: Python, AI/ML, Zero-Trust Architecture
+
+#### ☁️ [VirusTotal SaaS Platform](https://github.com/Hemant617/virustotal-saas-platform)
+**Production-ready SaaS platform for VirusTotal scanning**
+- 👥 User authentication and subscription management
+- 🤝 Team collaboration features
+- 📈 Comprehensive scan analytics
+- 🔌 RESTful API integration
+- **Tech Stack**: Python, FastAPI, PostgreSQL, Docker
+
 #### 🛡️ [Threat Log Analyzer](https://github.com/Hemant617/threat-log-analyzer)
 **Python-based security tool for analyzing system logs and detecting threats**
 - 🔍 Detects 8+ threat types: Brute force, SQL injection, XSS, malware signatures
@@ -80,7 +96,38 @@ I'm a motivated **Cybersecurity Analyst** and **Data Analyst** with hands-on exp
 - 📄 Beautiful HTML reports with detection statistics
 - **Tech Stack**: Python, VirusTotal API v3, Requests, Docker
 
-#### 🔬 Telemetry Incident Response & Detection Lab
+#### 🤖 [SOC Automation Toolkit](https://github.com/Hemant617/soc-automation-toolkit)
+**Enterprise SOC automation scripts and tools**
+- 🔍 Automated threat detection and hunting
+- 🚨 Incident response automation
+- 📊 SIEM integrations (Splunk, Elastic, QRadar)
+- 🎯 Alert enrichment and triage
+- **Tech Stack**: Python, SIEM APIs, Threat Intelligence
+
+---
+
+### 🏆 Security Research & CTF
+
+#### 🔬 [Security Research](https://github.com/Hemant617/security-research)
+**Independent security research and vulnerability analysis**
+- 🐛 Vulnerability discoveries and responsible disclosure
+- 📝 Security advisories and proof-of-concepts
+- 🔐 Web, mobile, cloud, and blockchain security research
+- 🛠️ Custom security tools and automation
+
+#### 🏆 [CTF Writeups](https://github.com/Hemant617/ctf-writeups)
+**Capture The Flag solutions and methodologies**
+- 🌐 Web exploitation (SQL injection, XSS, SSRF)
+- 💻 Binary exploitation and reverse engineering
+- 🔐 Cryptography challenges
+- 🔍 Digital forensics and steganography
+- **Platforms**: HackTheBox, TryHackMe, CTFtime
+
+---
+
+### 🔬 Hands-On Labs & Projects
+
+#### Telemetry Incident Response & Detection Lab
 **Simulated industrial IoT security incident response**
 - 🏭 Dockerized Flask application mimicking SCADA/IoT systems
 - 🤖 Python-based automated threat detection scripts
@@ -88,7 +135,7 @@ I'm a motivated **Cybersecurity Analyst** and **Data Analyst** with hands-on exp
 - 📋 Formal SOC-style incident response reports
 - **Tech Stack**: Docker, Python, Flask, JSON, Regex
 
-#### 🏠 Home Network Security Hardening Lab
+#### Home Network Security Hardening Lab
 **Practical network defense and penetration testing**
 - 🔍 Network security audit with Nmap and Wireshark
 - 🛡️ WPA3 implementation, MAC filtering, network isolation
@@ -96,7 +143,7 @@ I'm a motivated **Cybersecurity Analyst** and **Data Analyst** with hands-on exp
 - 📝 Documented exploits with remediation strategies
 - **Tech Stack**: Kali Linux, Nmap, Wireshark, Burp Suite, OWASP ZAP
 
-#### 🐍 Python Security Automation Framework
+#### Python Security Automation Framework
 **Modular security automation and monitoring system**
 - 🤖 Automated log analysis and anomaly detection
 - 🚨 Real-time monitoring for brute-force attacks
@@ -174,6 +221,7 @@ I'm a motivated **Cybersecurity Analyst** and **Data Analyst** with hands-on exp
 - 📚 Studying for CompTIA Security+ and CEH certifications
 - 🔬 Creating more hands-on cybersecurity labs and projects
 - 📊 Enhancing data analytics skills for security operations
+- 🏆 Participating in CTF competitions and bug bounty programs
 
 ---
 
