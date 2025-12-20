@@ -7,6 +7,8 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hemuh877@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hemant617)
 
+[![Recruiters Click Here](https://img.shields.io/badge/👔_RECRUITERS_CLICK_HERE-Quick_Overview-00C853?style=for-the-badge)](./RECRUITER.md)
+
 </div>
 
 ## 🛡️ Cybersecurity Analyst | 📊 Data Analyst | 🎓 B.Tech CSE Student
@@ -14,6 +16,7 @@
 > *"Turning threats into insights, vulnerabilities into solutions"*
 
 ### 🌟 [View My Portfolio Website →](https://hemant617.github.io/)
+### 👔 [Recruiter Quick Overview →](./RECRUITER.md)
 
 ---
 
@@ -249,20 +252,10 @@ I'm actively seeking **remote opportunities** in:
 - 📊 Data Analyst (Security/Forensics focus)
 - 🔬 Threat Intelligence Analyst
 
-**🌐 Portfolio**: [hemant617.github.io](https://hemant617.github.io/)  
-**📧 Email**: hemuh877@gmail.com  
-**📱 Phone**: +91 96342 22262  
-**🔗 LinkedIn**: [linkedin.com/in/hemantkaushal](https://linkedin.com/in/hemantkaushal)  
-**💻 GitHub**: [github.com/Hemant617](https://github.com/Hemant617)
+**Email:** hemuh877@gmail.com  
+**Portfolio:** [hemant617.github.io](https://hemant617.github.io/)  
+**LinkedIn:** [linkedin.com/in/hemantkaushal](https://linkedin.com/in/hemantkaushal)
 
 ---
 
-<div align="center">
-
-### 🌟 "Security is not a product, but a process" 🌟
-
-![Profile Views](https://komarev.com/ghpvc/?username=Hemant617&color=F85D7F&style=flat-square&label=Profile+Views)
-
-**⭐ Star my repositories if you find them useful!**
-
-</div>
+*💼 Recruiters: Check out my [Quick Overview for Hiring Managers](./RECRUITER.md) for a streamlined view of my qualifications and top projects.*
