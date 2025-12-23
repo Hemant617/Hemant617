@@ -17,6 +17,7 @@
 
 ### 🌟 [View My Portfolio Website →](https://hemant617.github.io/)
 ### 👔 [Recruiter Quick Overview →](./RECRUITER.md)
+### 🏠 [Home Lab Setup Guides →](./LABS/)
 
 ---
 
@@ -153,6 +154,35 @@ I'm a motivated **Cybersecurity Analyst** and **Data Analyst** with hands-on exp
 - 📊 Automated reporting with severity classification
 - 🔗 JSON parsing for SIEM log ingestion
 - **Tech Stack**: Python, JSON, Regex, Automation
+
+---
+
+### 🏠 Home Lab Setup Guides
+
+Want to build your own cybersecurity lab? I've created comprehensive guides:
+
+#### 🔐 [Kali Linux Home Lab Setup](./LABS/KALI_LINUX_HOME_LAB_SETUP.md)
+**Complete guide for offensive security testing lab**
+- Step-by-step VM setup (Kali, Metasploitable, DVWA, Windows)
+- Network configuration and isolation
+- Essential tools configuration
+- Practice scenarios and exploitation techniques
+- **Time**: 4-6 hours | **Difficulty**: Beginner-Intermediate
+
+#### 🔍 [SIEM Lab Setup Guide](./LABS/SIEM_LAB_SETUP.md)
+**Comprehensive SIEM deployment and configuration**
+- Multiple SIEM options (Elastic Stack, Splunk, Wazuh, Security Onion)
+- Log source configuration (Windows, Linux, Web servers)
+- Detection rules and alert creation
+- Dashboard building and threat hunting
+- **Time**: 6-8 hours | **Difficulty**: Intermediate-Advanced
+
+#### 📚 [Labs Overview & Quick Start](./LABS/)
+**Combined lab architecture and learning path**
+- Hardware requirements and resource allocation
+- Combined offensive + defensive lab setup
+- Practice scenarios and project ideas
+- Safety guidelines and best practices
 
 ---
 
